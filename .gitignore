@@ -3,9 +3,12 @@
 ################################################################################
 
 /.vs
-/csharp/1074/.vs
-/csharp/1074/bin/Debug/net8.0
-/csharp/1074/obj
-/csharp/1075/bin/Debug/net8.0
-/csharp/1075/obj
-/csharp/1079/obj
+# Ignore bin and obj directories recursively
+**/bin/
+**/obj/
+
+# Ignore .vs directory (Visual Studio specific)
+**/.vs/
+
+# Additional rules if needed for specific files or directories
+
