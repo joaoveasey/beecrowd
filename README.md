@@ -1,9 +1,9 @@
-# ?? Exercícios do Beecrowd
+# ğŸ ExercÃ­cios do Beecrowd
 
-#### Beecrowd é uma plataforma de desafios de programação que oferece uma ampla gama de problemas para praticar habilidades de algoritmos e estruturas de dados. Você pode conferir o meu perfil através do link abaixo:
+#### Beecrowd Ã© uma plataforma de desafios de programaÃ§Ã£o que oferece uma ampla gama de problemas para praticar habilidades de algoritmos e estruturas de dados. VocÃª pode conferir o meu perfil atravÃ©s do link abaixo:
 
 - [Meu perfil no Beecrowd](https://judge.beecrowd.com/en/profile/887476)
 
-## Licença
+## LicenÃ§a
 
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto Ã© licenciado sob a LicenÃ§a MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
